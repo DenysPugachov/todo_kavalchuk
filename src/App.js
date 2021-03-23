@@ -5,7 +5,7 @@ import Title from './components/title/title';
 
 const App = () => (
   <>
-    <Title title="ToDo App" />
+    <Title title="ToDo App with typescript" />
     <ToDo />
   </>
 );
